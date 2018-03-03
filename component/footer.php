@@ -1,6 +1,6 @@
-<br>
+          <br>
                 <br>
-                     <p>Copyright © 2018 Mexious Media. Version : v3.0</p>
+                     <p>Copyright © 2018 Mexious Media. Version : <font color="#000000">v3.0</font></p>
                     </div>
                 </div>
             </div>
