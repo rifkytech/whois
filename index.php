@@ -1,4 +1,5 @@
 <?php include 'component/header.php'; ?>
+<!-- Index Main Page Home -->
 <body>
   <div class="site-wrapper">
     <div class="site-wrapper-inner">
