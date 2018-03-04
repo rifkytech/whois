@@ -1,4 +1,4 @@
-<?
+<?php
 if($domain) {
   $domain = trim($domain);
   if(substr(strtolower($domain), 0, 7) == "http://") $domain = substr($domain, 7);
