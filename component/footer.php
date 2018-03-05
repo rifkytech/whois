@@ -1,7 +1,7 @@
 <!-- Footer Area -->              
               <br>
                 <br>
-                  <p>Copyright © 2018 Mexious Media. Version : <a href="https://github.com/rifkytech/whois/releases" title="View Update Release !"><font color="#000000">v3.0</font></a></p>
+                  <p>Copyright © 2018 Mexious Media. Version : <a href="https://github.com/rifkytech/whois/releases" target="_blank" title="Click For View Update"><font color="#000000">v3.0</font></a></p>
                     </div>
                 </div>
             </div>
