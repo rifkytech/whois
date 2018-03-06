@@ -103,6 +103,7 @@ $whoisservers = array(
   "je" => "whois.je", // Jersey
   "jobs" => "jobswhois.verisign-grs.com",
   "jp" => "whois.jprs.jp", // Japan
+  "komatsu" => "whois.nic.komatsu",
   "ke" => "whois.kenic.or.ke", // Kenya
   "kg" => "www.domain.kg", // Kyrgyzstan
   "ki" => "whois.nic.ki", // Kiribati
