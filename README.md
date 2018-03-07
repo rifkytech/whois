@@ -31,3 +31,23 @@ Tree :
     │       DBinfo.php
 
 </pre>
+
+* Di Folder <code>panel/login</pre>
+Tree :
+<pre>
+├───login
+    └───config
+    │           DBinfo.php
+</pre>
+* Di Folder <code>panel/setting</code>
+Tree :
+<pre>
+└───setting
+        │
+        └───config
+                DBinfo.php
+                
+ </pre>
+ 
+ ### License
+ Script Ini 100% Free Dan Tidak Untuk Diperjual Belikan
