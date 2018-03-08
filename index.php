@@ -14,10 +14,11 @@
         <div class="input-group input-group-lg">
       <input type="text" class="form-control"  placeholder="Search for domain or IP..." name="domain" id="domain" value="<?=$domain;?>"> 
     <span class="input-group-btn">
-  <input type="submit" class="btn btn-shorten" value="Whois" title="WHOIS Lookup!"></p>
+  <input type="submit" class="btn btn-shorten" value="Whois" title="WHOIS Lookup!">
 </span>
 </form>
   </div>
+              <br>
     </div>
       <?php include 'config/result.php'; ?>
             <div class="col-lg-12">
